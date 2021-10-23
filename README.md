@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @GiuDeMelo
-- 💞️ My pronouns are ... he/she
 - 👀 I’m interested in ... coding, art and design
 - 🌱 I’m currently learning ... JavaScript
 
